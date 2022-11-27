@@ -1,0 +1,23 @@
+.p_bg{
+    background-color: #dda0ad;
+    font-family: "Verdana", "DejaVu Sans", "Sans-serif";
+}
+
+
+.t_size{
+    font-size: 24px;
+}
+
+
+.t_b{
+    font-weight: bold;
+}
+
+#no2{
+    color:#0000ff;
+    font-size: 36px;
+}
+
+#no4 {
+    background-color: #adff2f;
+}
